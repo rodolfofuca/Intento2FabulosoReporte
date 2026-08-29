@@ -152,5 +152,4 @@ datos %>% ggplot(aes(x = date, y = temp)) +
         axis.text = element_text(color = "dodgerblue", size = 12),
         axis.text.x = element_text(angle = 50, vjust = 1, hjust = 1, size = 12)
         )
-```summary(iris)
 ```
